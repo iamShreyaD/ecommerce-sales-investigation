@@ -1,0 +1,508 @@
+customer_id,customer_name,email,city,state,region,signup_date,customer_segment
+764915,Riya Gupta,riya.gupta849@gmail.com,Delhi,Delhi,North,2024-02-13,Consumer
+287271,Sahil Desai,sahil.desai588@outlook.com,Bhubaneswar,Odisha,East,2025-04-21,Consumer
+709183,Zoya Bose,zoya.bose449@outlook.com,Nagpur,Maharashtra,West,2024-10-16,Consumer
+807170,Ishaan Kapoor,ishaan.kapoor479@outlook.com,Bhubaneswar,Odisha,East,2024-10-05,Consumer
+311483,Nikhil Das,nikhil.das763@gmail.com,Indore,Madhya Pradesh,Central,2025-12-15,Small Business
+179644,Aditi Das,aditi.das771outlook.com,Ahmedabad,Gujarat,West,2024-12-21,Consumer
+962018,Mihir Menon,mihir.menon303@yahoo.com,Lucknow,Uttar Pradesh,North,2026-02-13,Consumer
+456776,Sakshi Singh,sakshi.singh829@yahoo.com,Pune,Maharashtra,West,2024-03-09,Consumer
+898070,Sameer Joshi,sameer.joshi414@yahoo.com,Noida,Uttar Pradesh,North,2024-03-27,Consumer
+593800,Rohan Patel,rohan.patel85@yahoo.com,Indore,Madhya Pradesh,Central,2025-12-08,Small Business
+876105,Priya Bhat,priya.bhat821@yahoo.com,Patna,Bihar,East,2025-01-21,Consumer
+257381,Arnav Reddy,arnav.reddy494@yahoo.com,Jaipur,Rajasthan,North,2024-07-21,Consumer
+654697,Vikas Kulkarni,vikas.kulkarni460@yahoo.com,Bhopal,Madhya Pradesh,Central,2024-04-12,Consumer
+371942,Isha Nair,isha.nair776@yahoo.com,Noida,Uttar Pradesh,North,2025-07-18,Corporate
+520073,Dhruv Singh,dhruv.singh303@outlook.com,Kolkata,West Bengal,East,2026-02-17,Consumer
+774101,Kabir Bose,kabir.bose917@gmail.com,Bhubaneswar,Odisha,East,2024-02-16,Small Business
+958204,Kiara Pillai,kiara.pillai506@gmail.com,Chennai,Tamil Nadu,South,2024-09-06,Consumer
+559636,Shreya Banerjee,SHREYA.BANERJEE251@GMAIL.COM,Kochi,Kerala,South,2024-01-16,Consumer
+725952,Varun Verma,varun.verma135@gmail.com,Noida,Uttar Pradesh,North,2026-03-17,Consumer
+980569,Kiara Kapoor,kiara.kapoor538@gmail.com,Nagpur,Maharashtra,West,2025-08-07,Consumer
+648433,Meera Rao,meera.rao523@yahoo.com,Nagpur,Maharashtra,West,2025-07-20,Consumer
+707085,Aman Menon,aman.menon546@gmail.com,Ahmedabad,Gujarat,West,2025-05-21,Consumer
+951867,Meera Menon,meera.menon354@yahoo.com,Kochi,Kerala,South,2025-11-06,Consumer
+859034,Aarav Malhotra,aarav.malhotra997@gmail.com,Lucknow,Uttar Pradesh,North,2025-12-20,Consumer
+565558,Ayush Singh,ayush.singh411@gmail.com,Gurugram,Haryana,North,2025-08-14,Consumer
+203145,Meera Singh,meera.singh94@yahoo.com,,Haryana,North,2026-02-18,Small Business
+192777,Isha Mehta,isha.mehta910@yahoo.com,Kolkata,West Bengal,East,2024-02-24,Consumer
+300385,Aarav Bhat,aarav.bhat86@gmail.com,Nagpur,MH,West,2024-06-16,Consumer
+734356,Mihir Singh,mihir.singh195@gmail.com,Bhopal,Madhya Pradesh,Central,2025-05-16,Consumer
+287357,Akash Rao,akash.rao546@yahoo.com,Bhopal,Madhya Pradesh,Central,2025-08-02,Small Business
+738616,Kiara Kapoor,kiara.kapoor46@gmail.com,Nagpur,Maharashtra,West,2025-10-28,Consumer
+884995,Arnav Gupta,arnav.gupta50@outlook.com,Kolkata,West Bengal,East,2025-08-08,Consumer
+968630,Sameer Bose,sameer.bose980@gmail.com,Delhi,Delhi,North,2025-11-24,Consumer
+935164,Manav Agarwal,manav.agarwal376@gmail.com,Patna,Bihar,East,2024-04-20,Consumer
+792467,Vikas Das,vikas.das398@gmail.com,Chennai,Tamil Nadu,South,2024-10-28,Consumer
+568955,Ishaan Singh,ishaan.singh64@gmail.com,Kochi,Kerala,South,2025-04-25,Consumer
+553490,Sameer Das,sameer.das893@gmail.com,Nagpur,Maharashtra,West,2025-02-21,Consumer
+190452,Tanvi Shah,tanvi.shah287@outlook.com,Delhi,Delhi,North,2025-07-21,Consumer
+928190,Avni Bose,avni.bose814@yahoo.com,Lucknow,Uttar Pradesh,North,2024-09-05,Consumer
+835698,Kavya Desai,kavya.desai550@yahoo.com,Jaipur,Rajasthan,North,2024-11-05,Corporate
+509415,Tanvi Rao,tanvi.rao954@gmail.com,Gurugram,Haryana,North,2024-02-17,Consumer
+827650,Avni Shah,avni.shah900@gmail.com,Surat,Gujarat,West,2024-03-23,Consumer
+814369,Ved Malhotra,ved.malhotra982@outlook.com,,Haryana,North,2024-04-07,Consumer
+925336,Riya Bose,riya.bose232@outlook.com,Hyderabad,Telangana,South,2026-04-02,Consumer
+577818,Tanvi Menon,tanvi.menon771@outlook.com,Surat,Gujarat,West,2024-03-04,Consumer
+384470,Akash  Khan,akash.khan491@yahoo.com,Nagpur,Maharashtra,West,2025-09-03,Consumer
+384876, Ved Reddy ,ved.reddy787@outlook.com,Indore,Madhya Pradesh,Central,2025-04-21,Consumer
+601846,mihir pillai,mihir.pillai945@outlook.com,Noida,Uttar Pradesh,North,2025-06-02,Consumer
+310574,Sahil Malhotra,sahil.malhotra134@yahoo.com,Bhopal,Madhya Pradesh,Central,2025-06-04,Consumer
+475655,Sameer Banerjee,sameer.banerjee691@gmail.com,Hyderabad,Telangana,South,2024-12-21,Consumer
+765325,Ananya Patel,ANANYA.PATEL252@YAHOO.COM,Mumbai,Maharashtra,West,2024-04-07,Small Business
+740287,Rahul Pillai,rahul.pillai891@yahoo.com,Mumbai,Maharashtra,West,2025-04-21,Consumer
+730472,Kabir Bose,kabir.bose366@yahoo.com,Pune ,Maharashtra,West,2024-08-01,Consumer
+158505,Priya Bhat,priya.bhat604@outlook.com,Bhopal,Madhya Pradesh,Central,2024-07-28,Consumer
+759247,Tanvi Sharma,tanvi.sharma902@yahoo.com,Gurugram,Haryana,North,2025-03-12,Consumer
+185572,Arnav Mehta,arnav.mehta894@yahoo.com,Ahmedabad,Gujarat,West,2026-04-07,Consumer
+504504,Rahul Reddy,rahul.reddy558@outlook.com,Chennai,Tamil Nadu,South,2025-03-17,Consumer
+200363,Mihir Reddy,mihir.reddy134@gmail.com,Kolkata,West Bengal,East,2024-01-31,Consumer
+551603,Rahul Menon, rahul.menon384@gmail.com ,Bhubaneswar,Odisha,East,2024-10-20,Corporate
+740696,Diya Menon,diya.menon19@outlook.com,Jaipur,Rajasthan,West ,2024-02-08,Consumer
+756713,Varun Kapoor,varun.kapoor279@outlook.com,Surat,Gujarat,West,2025-02-25,Consumer
+375259,Kavya Sharma,kavya.sharma349@gmail.com,Bhopal,Madhya Pradesh,Central,2024-02-03,Corporate
+800130,Aditya Gupta,aditya.gupta139@yahoo.com,Lucknow,Uttar Pradesh,,2024-06-14,Consumer
+419328,Nikhil Banerjee,nikhil.banerjee728@yahoo.com,Chennai,Tamil Nadu,South,2025-11-11,Small Business
+853329,Isha Das,isha.das18@outlook.com,Kochi,Kerala,South,2025-12-10,Small Business
+131550,Pranav Khan,pranav.khan920@outlook.com,Mumbai,Maharashtra,West,2025-12-11,Consumer
+983577,Kabir Joshi,kabir.joshi619@gmail.com,Hyderabad,Telangana,South,2026-02-11,Consumer
+188500,Sahil Khan,sahil.khan128@yahoo.com,Patna,Bihar,East,2024-10-12,Small Business
+948367,Bhavya Joshi,bhavya.joshi440@gmail.com,Chennai,Tamil Nadu,South,2024-08-10,Consumer
+894652,Nikhil Menon,nikhil.menon526@yahoo.com,Indore,Madhya Pradesh,Central,2026-04-12,Consumer
+532932,Aarav Agarwal,aarav.agarwal838@yahoo.com,Surat,Gujarat,West,2025-05-19,Consumer
+200920,Bhavya Shah,bhavya.shah844@outlook.com,Bhubaneswar,Odisha,East,2024-03-09,Consumer
+905133,Rhea Verma,,Surat,Gujarat,West,2025-01-09,Consumer
+938019,Aman Iyer,aman.iyer400@yahoo.com,Chennai,Tamil Nadu,South,2025-04-01,Consumer
+159127,Aarav Malhotra,aarav.malhotra421@yahoo.com,Bangalore,Karnataka,South,2024-03-15,Consumer
+837919,Aman Kapoor,aman.kapoor464@outlook.com,Kochi,Kerala,South,2025-08-31,Small Business
+329636,Manav Rao,manav.rao983@gmail.com,Ahmedabad,Gujarat,West,2024-07-06,Consumer
+989226,Yash Gupta,yash.gupta987@outlook.com,Nagpur,Maharashtra,West,2025-05-05,Consumer
+710265,Arjun Nair,arjun.nair206@outlook.com,Gurugram,Haryana,North,2025-05-01,Consumer
+256842,Riya Bose,riya.bose487@outlook.com,Bhopal,Madhya Pradesh,Central,2024-09-29,Consumer
+717322,Priya Rao,priya.rao682@gmail.com,Lucknow,Uttar Pradesh,North,2024-02-13,Consumer
+327908,Avni Malhotra,,Indore,Madhya Pradesh,Central,2025-06-07,Consumer
+634991,Riya Singh,riya.singh752@outlook.com,Nagpur,Maharashtra,West,2025-03-04,Consumer
+783204,Ananya Banerjee,ananya.banerjee631@gmail.com,Nagpur,Maharashtra,West,2025-09-11,Consumer
+410841,Avni Desai,avni.desai701@yahoo.com,Bhubaneswar,Odisha,East,2024-07-09,Corporate
+585327,Nikhil Pillai,nikhil.pillai432@yahoo.com,Noida,Uttar Pradesh,North,2026-02-12,Consumer
+606624,Priya Bhat,priya.bhat582@outlook.com,Nagpur,Maharashtra,West,2026-01-09,Small Business
+590465,Avni Banerjee,avni.banerjee74@outlook.com,Ahmedabad,Gujarat,West,2024-03-07,Consumer
+782094,Bhavya Reddy,bhavya.reddy770@outlook.com,Ahmedabad,Gujarat,West,2025-10-06,Consumer
+959389,Isha Khan,isha.khan249@gmail.com,Delhi,Delhi,North,2025-04-14,Small Business
+205182,Rahul Singh,rahul.singh573@yahoo.com,Kochi,Kerala,South,2025-05-20,Small Business
+534430,Rohan Banerjee,rohan.banerjee211@outlook.com,Mumbai,Maharashtra,West,2024-08-14,Consumer
+259621,Rohan Bose,rohan.bose473@gmail.com,Kolkata,West Bengal,East,2024-04-24,Consumer
+100900,Dhruv Rao,dhruv.rao681@gmail.com,Noida,Uttar Pradesh,North,2026-01-30,Consumer
+401832,Sameer Pillai,sameer.pillai824@outlook.com,Indore,Madhya Pradesh,Central,2024-05-16,Small Business
+257678,Tanvi Kulkarni,tanvi.kulkarni840@yahoo.com,Kolkata,West Bengal,East,2024-07-01,Consumer
+142839,Simran Agarwal,simran.agarwal493@outlook.com,Kochi,Kerala,South,2025-10-11,Consumer
+130626,Rhea Verma,rhea.verma444@yahoo.com,Pune,Maharashtra,West,2024-04-15,Consumer
+159009,Varun Shah,varun.shah189@yahoo.com,,Gujarat,West,2025-12-14,Small Business
+733053,Riya Agarwal,riya.agarwal390@yahoo.com,Indore,Madhya Pradesh,Central,2025-07-16,Small Business
+333092, Aarav Verma ,aarav.verma626@yahoo.com,Bhopal,Madhya Pradesh,Central,2025-01-19,Consumer
+360759, Varun Singh ,varun.singh439@outlook.com,Mumbai,Maharashtra,West,2025-03-23,Consumer
+947085,Rhea Gupta,rhea.gupta600@gmail.com,Bhopal,Madhya Pradesh,Central,2024-04-25,Consumer
+437110,Neha Reddy, neha.reddy577@gmail.com ,Bhopal,Madhya Pradesh,Central,2024-10-04,Consumer
+382701,Vivek Singh,vivek.singh379@yahoo.com,Surat,Gujarat,West,2024-06-13,Consumer
+230884,Pallavi Reddy,pallavi.reddy612@gmail.com,Patna,Bihar,East,2026-02-23,Consumer
+926948,Riya Singh,riya.singh246@yahoo.com,Hyderabad,Telangana,South,2024-02-06,Small Business
+815331,Sahil Pillai,sahil.pillai304@outlook.com,Pune,Maharashtra,West,2026-04-02,Consumer
+811119,Pranav  Khan,pranav.khan641@outlook.com,Ahmedabad,Gujarat,West,2025-12-01,Consumer
+816732,Arnav Mehta,,Bhubaneswar,Odisha,East,2024-01-03,Consumer
+665049,Nikhil Kapoor,nikhil.kapoor858@yahoo.com,Hyderabad,Telangana,South,2024-02-16,Consumer
+607287,Riya Menon,riya.menon289@outlook.com,Indore,Madhya Pradesh,Central,2025-09-03,Consumer
+147429,Sahil Das,sahil.das295@gmail.com,Mumbai,Maharashtra,West,2025-09-09,Consumer
+994768,Riya Bhat,riya.bhat941@gmail.com,Patna,Bihar,East,2024-02-19,Consumer
+361935, Kavya Rao ,kavya.rao524@gmail.com,Nagpur,Maharashtra,West,2024-04-11,Small Business
+225610,Kiara Verma,kiara.verma568@outlook.com,Jaipur,Rajasthan,North,2025-09-03,Consumer
+151040,Riya Iyer,riya.iyer307@outlook.com,Chennai,Tamil Nadu,South,2024-08-09,Consumer
+156249,Diya Patel,diya.patel449@outlook.com,Gurugram,Haryana,North,2024-02-07,Consumer
+989775,Aditi Gupta,aditi.gupta270@outlook.com,Hyderabad,Telangana,West ,2024-08-14,Consumer
+126201,Sameer Khan,sameer.khan57@yahoo.com,Nagpur,Maharashtra,West,2024-12-10,Consumer
+558991,Aditi Kulkarni,aditi.kulkarni939@outlook.com,Ahmedabad,Gujarat,West,2024-08-30,Small Business
+411950,Sahil Rao,sahil.rao253@outlook.com,Surat,Gujarat,West,2025-11-12,Consumer
+344759,Priya Singh,priya.singh210@yahoo.com,Indore,Madhya Pradesh,Central,2025-11-06,Consumer
+188247,Priya Singh,priya.singh62@gmail.com,Patna,Bihar,East,2025-09-04,Consumer
+670233,Nisha  Patel,nisha.patel607@gmail.com,Hyderabad,Telangana,South,2025-04-10,Consumer
+883666,Rohan Bhat,rohan.bhat187@gmail.com,Gurugram,Haryana,North,2025-03-04,Consumer
+527962,Arjun  Gupta,arjun.gupta581@outlook.com,Indore,Madhya Pradesh,Central,2024-08-25,Corporate
+903968,Tanvi Banerjee,tanvi.banerjee65@outlook.com,Patna,Bihar,,2024-10-19,Consumer
+765560,Rhea Malhotra,rhea.malhotra739@yahoo.com,Chennai,Tamil Nadu,South,2025-05-22,Consumer
+763304,Pallavi Iyer,pallavi.iyer684@gmail.com,Nagpur,Maharashtra,West,2025-05-06,Consumer
+233393,Dhruv Kulkarni,dhruv.kulkarni741@gmail.com,Mumbai,Maharashtra,SOUTH,2024-11-21,Consumer
+455093,Rhea Iyer,rhea.iyer982@gmail.com,Hyderabad,Telangana,South,2026-03-12,Consumer
+248652,avni kulkarni,avni.kulkarni768@yahoo.com,Bengaluru,Karnataka,South,2025-05-27,Consumer
+679329,Zoya Mehta,zoya.mehta315outlook.com,Indore,Madhya Pradesh,Central,2024-09-18,Consumer
+627277,Arjun Menon,arjun.menon479@outlook.com,Mumbai,Maharashtra,West,2024-02-21,Small Business
+719823,Zoya Patel,zoya.patel432@gmail.com,Bengaluru,Karnataka,South,2024-08-23,Consumer
+849738,Aman Pillai,aman.pillai927@gmail.com,Kolkata,West Bengal,East,2025-10-11,Consumer
+920802,Vivek Bhat,vivek.bhat591@outlook.com,,Madhya Pradesh,Central,2025-04-05,Small Business
+778380,Aditi Patel,aditi.patel451@outlook.com,Nagpur,Maharashtra,West,2024-07-07,Consumer
+759732,Neha Bose,NEHA.BOSE168@OUTLOOK.COM,Surat,Gujarat,West,2025-03-04,Consumer
+670968,Yash Kulkarni,yash.kulkarni920@gmail.com,Kochi,Kerala,South,2024-05-11,Consumer
+578302,Zoya Khan,zoya.khan998@yahoo.com,Bhopal,Madhya Pradesh,Central,2024-04-21,Consumer
+281740,Bhavya Bose,bhavya.bose478@yahoo.com,Ahmedabad,Gujarat,West,2024-04-10,Consumer
+983344,Mihir Rao,mihir.rao982@gmail.com,Noida,Uttar Pradesh,North,2025-11-26,Consumer
+232362,Ved Iyer,ved.iyer847@outlook.com,Chennai,Tamil Nadu,South,2026-01-23,Consumer
+866195,Mihir Rao,mihir.rao51@gmail.com,Mumbai,Maharashtra,West,2025-07-07,Consumer
+440333,Bhavya Singh,bhavya.singh551@gmail.com,Surat,Gujarat,West,2024-03-05,Small Business
+746968,Akash  Bhat,akash.bhat570@yahoo.com,Surat,Gujarat,West,2025-05-13,Small Business
+941978,Neha Mehta,neha.mehta860@gmail.com,Gurugram,Haryana,North,2024-04-27,Consumer
+870571,Vikas Verma,vikas.verma307@outlook.com,Gurugram,Haryana,North,2026-04-18,Consumer
+407648,Pranav Desai,pranav.desai573@yahoo.com,Lucknow,Uttar Pradesh,North,2024-08-08,Consumer
+558733,Dhruv Kulkarni,dhruv.kulkarni334@outlook.com,Kolkata,West Bengal,East,2026-01-12,Consumer
+611527,Rahul Verma,rahul.verma482@yahoo.com,Hyderabad,Telangana,South,2024-10-30,Corporate
+948985,Arnav Das,arnav.das153@yahoo.com,Mumbai,Maharashtra,West,2025-04-06,Consumer
+875514,Zoya Das,zoya.das92@outlook.com,Nagpur,Maharashtra,south,2024-03-14,Consumer
+204112,Pranav Agarwal,pranav.agarwal69@gmail.com,Surat,Gujarat,West,2024-11-29,Corporate
+406241,Aarav Kapoor,aarav.kapoor231@gmail.com,Bhubaneswar,Odisha,East,2026-03-18,Consumer
+379395,Pranav Iyer,pranav.iyer344@gmail.com,Indore,Madhya Pradesh,Central,2025-01-10,Consumer
+391959,Aditya Kapoor,aditya.kapoor646@gmail.com,Gurugram,Haryana,North,2024-05-26,Small Business
+537858,Ayush Pillai,ayush.pillai51@yahoo.com,Indore,Madhya Pradesh,Central,2024-01-26,Small Business
+828898,Ishaan Desai,ishaan.desai581@gmail.com,Bhopal,Madhya Pradesh,Central,2024-05-14,Consumer
+758153,Ananya Das,ananya.das794@yahoo.com,Hyderabad,Telangana,South,2025-11-06,Consumer
+784164,Simran Iyer,simran.iyer965@gmail.com,Delhi,delhi,North,2026-03-25,Small Business
+632863,Neha Agarwal,neha.agarwal333@yahoo.com,Chennai,Tamil Nadu,South,2025-07-17,Consumer
+155485,Nikhil Sharma,nikhil.sharma275@yahoo.com,Pune,Maharashtra,West,2024-02-19,Consumer
+215684,Varun Banerjee,varun.banerjee12@gmail.com,Kochi,Kerala,South,2026-04-03,Consumer
+247829,Akash Gupta,akash.gupta834@outlook.com,Mumbai,Maharashtra,West,2025-09-30,Consumer
+918245,Akash Malhotra,akash.malhotra775@gmail.com,Chennai,Tamil Nadu,South,2026-03-10,Consumer
+667162,Bhavya Malhotra,bhavya.malhotra998@outlook.com,Jaipur,Rajasthan,North,2024-02-27,Consumer
+603177,Pallavi Khan,pallavi.khan34@gmail.com,Bengaluru,Karnataka,South,2025-10-17,Consumer
+629979, Vikas Das ,vikas.das634@gmail.com,Kochi,Kerala,South,2025-11-17,Consumer
+754652,Sameer Pillai,sameer.pillai382@gmail.com,Noida,Uttar Pradesh,North,2025-01-23,Consumer
+351483,Pranav Kulkarni,pranav.kulkarni680@yahoo.com,Bengaluru,Karnataka,South,2024-09-09,Consumer
+633700,Neha Iyer,neha.iyer898@outlook.com,Chennai,Tamil Nadu,South,2025-11-22,Small Business
+122935,Dhruv Bhat,dhruv.bhat559@gmail.com,Nagpur,Maharashtra,West,2024-08-23,Consumer
+969755,Akash Agarwal,akash.agarwal311@gmail.com,Nagpur,Maharashtra,West,2026-03-27,Consumer
+415781,Avni Malhotra,AVNI.MALHOTRA945@YAHOO.COM,Bhopal,Madhya Pradesh,Central,2025-02-08,Consumer
+604773,Yash Malhotra,yash.malhotra920@yahoo.com,Bhopal,Madhya Pradesh,Central,2026-01-04,Consumer
+572689,Yash Das,yash.das671@outlook.com,Bhubaneswar,Odisha,East,2026-04-29,Consumer
+624404,Rhea Nair,rhea.nair583@outlook.com,Jaipur,Rajasthan,North,2025-11-10,Consumer
+861788,Shreya Das,shreya.das503@outlook.com,Chennai,Tamil Nadu,South,2025-03-09,Consumer
+800293,Manav Singh,,Lucknow,Uttar Pradesh,North,2024-02-02,Consumer
+386418,Priya Bose,priya.bose393@gmail.com,Bhubaneswar,Odisha,East,2024-02-17,Consumer
+941623,Kiara Banerjee,kiara.banerjee377@gmail.com,Hyderabad,Telangana,South,2024-03-26,Consumer
+601640,Kabir Mehta,kabir.mehta992@gmail.com,Bhubaneswar,Odisha,East,2026-02-22,Consumer
+800485,Akash Joshi,akash.joshi966@yahoo.com,Bengaluru,Karnataka,South,2025-09-18,Consumer
+470053,Tanvi Malhotra,tanvi.malhotra160@outlook.com,Kochi,Kerala,South,2024-07-09,Consumer
+591216,Aditya Rao,aditya.rao680@outlook.com,Mumbai,MH,West,2025-06-13,Small Business
+984030,Varun Singh,varun.singh133@yahoo.com,Bhopal,Madhya Pradesh,Central,2024-10-17,Consumer
+305633,Aman Kapoor,aman.kapoor729@gmail.com,Patna,Bihar,East,2024-02-18,Consumer
+188494,Akash Desai,AKASH.DESAI935@OUTLOOK.COM,Indore,Madhya Pradesh,Central,2026-04-01,Consumer
+958803,Manav Sharma,manav.sharma638@gmail.com,Kolkata,West Bengal,East,2025-04-28,Consumer
+904239,Diya Reddy,diya.reddy685@outlook.com,Bhubaneswar,Odisha,East,2024-01-05,Small Business
+223768,Aarav Shah,aarav.shah699@gmail.com,Bhopal,Madhya Pradesh,Central,2024-09-14,Small Business
+262607,Yash Khan,yash.khan551@outlook.com,Hyderabad,Telangana,South,2025-03-27,Consumer
+277952,Kabir Banerjee,kabir.banerjee970@outlook.com,Chennai,Tamil Nadu,South,2025-11-09,Small Business
+148259,Kavya Mehta,kavya.mehta13@outlook.com,Bhopal,Madhya Pradesh,Central,2025-06-25,Consumer
+372970,Kabir Desai,kabir.desai397@yahoo.com,Bhopal,Madhya Pradesh,Central,2024-07-17,Consumer
+547445,Priya Iyer,priya.iyer316@gmail.com,Nagpur,Maharashtra,West,2024-09-04,Consumer
+367193,Kabir Agarwal,kabir.agarwal638@yahoo.com,Kochi,Kerala,South,2025-02-02,Consumer
+620517,Aditi Joshi,aditi.joshi427@yahoo.com,Bhubaneswar,Odisha,East,2025-06-20,Consumer
+605121,Avni Das,avni.das470@yahoo.com,Delhi,Delhi,North,2024-11-22,Consumer
+183671,Neha Kulkarni,neha.kulkarni938@outlook.com,Hyderabad,Telangana,South,2026-03-22,Consumer
+690321,Arjun Gupta,arjun.gupta47@yahoo.com,Jaipur,Rajasthan,North,2025-03-22,Consumer
+832149,Nisha Das,nisha.das319@gmail.com,Kochi,Kerala,South,2025-07-27,Consumer
+681114,Kabir Das,kabir.das928@yahoo.com,Delhi,Delhi,North,2025-02-14,Consumer
+550242,Ayush Rao,AYUSH.RAO689@GMAIL.COM,Hyderabad,Telangana,South,2025-10-11,Consumer
+315743,Kiara Kulkarni,kiara.kulkarni645@gmail.com,Kolkata,West Bengal,East,2024-08-25,Consumer
+531673,Meera Khan,meera.khan808@gmail.com,Nagpur,Maharashtra,West,2025-12-10,Corporate
+834225,Ayush Reddy,,Kolkata,West Bengal,East,2024-06-18,Consumer
+883973,Aditi Malhotra,aditi.malhotra857@gmail.com,Bhopal,Madhya Pradesh,Central,2024-09-30,Small Business
+520596,Ananya Rao,ananya.rao185@gmail.com,Pune,Maharashtra,West,2025-06-25,Consumer
+897816,Dhruv Menon,dhruv.menon149outlook.com,Kochi,Kerala,South,2025-05-12,Consumer
+301355,Varun Rao,varun.rao978@gmail.com,Jaipur,Rajasthan,North,2024-03-24,Small Business
+894878,Kiara Patel,kiara.patel198@yahoo.com,Jaipur,Rajasthan,North,2024-03-18,Consumer
+301833, Ved Kapoor ,ved.kapoor776@yahoo.com,Pune,Maharashtra,West,2024-06-24,Consumer
+718525,Isha Kulkarni,isha.kulkarni678@outlook.com,Surat,Gujarat,West,2026-04-01,Consumer
+212394,Vivek Kapoor,vivek.kapoor909@outlook.com,Surat,Gujarat,West,2024-03-19,Consumer
+954224,Rhea Verma,rhea.verma348@gmail.com,Hyderabad,Telangana,South,2024-11-17,Consumer
+459974,Priya  Nair,priya.nair875@gmail.com,Delhi,Delhi,North,2026-02-20,Small Business
+499659,Arnav Das,arnav.das489@yahoo.com,Ahmedabad,Gujarat,West,2025-12-25,Corporate
+408371,Meera Reddy,meera.reddy612@outlook.com,Bengaluru,Karnataka,South,2024-05-13,Small Business
+541876,Sahil Nair,sahil.nair822@yahoo.com,Hyderabad,Telangana,South,2026-04-04,Consumer
+592020,Kiara Nair,kiara.nair925@outlook.com,Patna,Bihar,East,2024-05-05,Consumer
+836208,Aditya Bhat,aditya.bhat47@gmail.com,Kochi,Kerala,South,2025-12-25,Consumer
+383221,Pranav Khan, pranav.khan567@gmail.com ,Ahmedabad,Gujarat,West,2025-07-03,Consumer
+727246,Aarav Menon,AARAV.MENON629@GMAIL.COM,Nagpur,Maharashtra,West,2026-04-03,Consumer
+286212,Priya Singh,priya.singh208@gmail.com,Patna,Bihar,East,2025-01-16,Consumer
+723462,Varun Iyer,varun.iyer911@outlook.com,Delhi,Delhi,North,2024-01-26,Small Business
+265020,Isha Menon,isha.menon758@yahoo.com,Chennai,Tamil Nadu,South,2025-05-30,Consumer
+255785,Mihir Kapoor,mihir.kapoor922@gmail.com,Patna,Bihar,East,2025-06-24,Consumer
+600448,Dhruv Patel,dhruv.patel724@gmail.com,Bhubaneswar,Odisha,East,2024-10-04,Consumer
+901441,Dhruv Rao,dhruv.rao991@yahoo.com,Bengaluru,Karnataka,South,2024-01-04,Consumer
+611538,Rohan Reddy,rohan.reddy241@gmail.com,Delhi,Delhi,North,2025-03-29,Consumer
+488226,Vikas Agarwal,vikas.agarwal493@yahoo.com,Bengaluru,Karnataka,South,2026-02-09,Small Business
+508068,Rhea Menon,rhea.menon750@outlook.com,Bhubaneswar,Odisha,East,2025-02-11,Consumer
+666877,Rohan Agarwal,rohan.agarwal849@yahoo.com,Patna,Bihar,East,2025-04-13,Consumer
+571242,Arnav Banerjee,arnav.banerjee868@outlook.com,Indore,Madhya Pradesh,Central,2026-04-10,Consumer
+593565,Pallavi Reddy,pallavi.reddy17@gmail.com,Delhi,Delhi,North,2025-11-28,Consumer
+203676,Sameer Verma,sameer.verma134@yahoo.com,Bhopal,Madhya Pradesh,Central,2025-12-11,Small Business
+242097,Karan Shah,karan.shah403@gmail.com,Mumbai,Maharashtra,West,2024-07-09,Consumer
+996075,Shreya Singh,shreya.singh491@gmail.com,Ahmedabad,Gujarat,West,2024-12-26,Small Business
+381598,Pallavi Rao,pallavi.rao219@outlook.com,Chennai,Tamil Nadu,South,2025-08-30,Small Business
+442850,Sakshi Sharma,sakshi.sharma651@gmail.com,Bhubaneswar,Odisha,East,2026-02-13,Consumer
+255887,Isha Menon,isha.menon906@yahoo.com,Delhi,Delhi,North,2025-09-20,Consumer
+568342,Aditi Reddy, aditi.reddy918@outlook.com ,Lucknow,Uttar Pradesh,North,2024-03-15,Consumer
+491764,Kavya Mehta,kavya.mehta340@yahoo.com,Indore,Madhya Pradesh,Central,2025-12-21,Consumer
+377570,Vivek Shah,vivek.shah565@gmail.com,Hyderabad,Telangana,South,2024-11-11,Small Business
+833912,Shreya Nair,shreya.nair713@yahoo.com,Delhi,Delhi,North,2025-02-07,Corporate
+687478,Aditi Menon,aditi.menon596@outlook.com,Lucknow,Uttar Pradesh,North,2024-02-23,Consumer
+752183,Sakshi Shah,sakshi.shah301@outlook.com,Indore,Madhya Pradesh,Central,2024-09-10,Consumer
+629730,Neha Singh,neha.singh538@gmail.com,Nagpur,Maharashtra,West,2024-08-26,Consumer
+691981,Arjun Sharma,arjun.sharma299@gmail.com,Pune,Maharashtra,West,2024-02-15,Consumer
+534152,Arnav Shah,arnav.shah469@yahoo.com,Pune,Maharashtra,West,2025-10-07,Consumer
+451923,Sameer Bhat,sameer.bhat828@outlook.com,Mumbai,Maharashtra,West,2025-05-03,Small Business
+613386,Mihir Bose,mihir.bose751@gmail.com,Mumbai,Maharashtra,West,2024-04-29,Consumer
+578458,Pranav Iyer,pranav.iyer964@gmail.com,mumbai,Maharashtra,West,2025-05-09,Consumer
+724264,diya shah,diya.shah716@yahoo.com,Jaipur,Rajasthan,North,2025-03-13,Consumer
+813405,Rahul Joshi,rahul.joshi783@gmail.com,Bengaluru,Karnataka,South,2025-06-25,Consumer
+485707,Rhea Malhotra,rhea.malhotra564@yahoo.com,Mumbai,Maharashtra,,2026-04-23,Consumer
+492901,Pranav Khan,pranav.khan347@outlook.com,Kochi,Kerala,South,2025-01-30,Consumer
+981656,Nikhil Joshi,nikhil.joshi163@gmail.com,Kolkata,West Bengal,East,2025-10-25,Corporate
+328394,Vivek Iyer,vivek.iyer74@yahoo.com,Bengaluru,Karnataka,South,2025-07-09,Small Business
+634828,Isha Iyer,isha.iyer722@outlook.com,Noida,Uttar Pradesh,North,2025-03-05,Consumer
+748766,Neha Kapoor,neha.kapoor344@yahoo.com,Kolkata,West Bengal,East,2024-01-28,Consumer
+209896,Aditi Desai,aditi.desai338@gmail.com,Kochi,Kerala,South,2025-11-02,Consumer
+459160,Pallavi Nair,pallavi.nair778@yahoo.com,Nagpur,Maharashtra,West,2024-02-25,Consumer
+692063,Simran Nair,simran.nair503@outlook.com,Kolkata,West Bengal,East,2024-04-29,Consumer
+440325,Akash Malhotra,akash.malhotra387@gmail.com,Delhi,Delhi,North,2025-09-11,Consumer
+133026,Ved Malhotra,ved.malhotra719@outlook.com,Bhubaneswar,Odisha,East,2024-11-11,Consumer
+713807,Pranav Agarwal,pranav.agarwal134@outlook.com,Surat,Gujarat,W,2024-03-28,Small Business
+486108,Zoya Mehta,zoya.mehta404@yahoo.com,Mumbai,Maharashtra,West,2025-04-17,Consumer
+294304,Ananya Kapoor,ananya.kapoor992@outlook.com,Lucknow,Uttar Pradesh,North,2026-02-02,Small Business
+156175,Yash Bhat,yash.bhat421@gmail.com,Bengaluru,Karnataka,South,2025-05-25,Consumer
+345398,Shreya Gupta,shreya.gupta609@gmail.com,Hyderabad,Telangana,South,2025-11-01,Consumer
+353016,Kavya Shah,kavya.shah228@yahoo.com,Jaipur,Rajasthan,North,2025-01-30,Corporate
+526901,Yash Agarwal,yash.agarwal106@yahoo.com,Jaipur,Rajasthan,North,2025-04-04,Consumer
+913868,Dhruv Das,dhruv.das618@gmail.com,Noida,Uttar Pradesh,North,2025-05-22,Consumer
+198081,Kiara Bhat,kiara.bhat347@yahoo.com,Bengaluru,Karnataka,South,2026-04-23,Consumer
+329509,Arnav Menon,arnav.menon837@yahoo.com,Ahmedabad,Gujarat,West,2026-03-28,Consumer
+235450,Rhea Verma,rhea.verma20@gmail.com,Mumbai,Maharashtra,West,2026-01-12,Consumer
+520605,Nisha Das,,Delhi,Delhi,North,2025-09-26,Small Business
+732665,Kavya Singh,kavya.singh373@gmail.com,Indore,,Central,2024-09-04,Consumer
+440772,Tanvi Iyer,tanvi.iyer264@outlook.com,Noida,Uttar Pradesh,North,2024-10-19,Consumer
+648844,Zoya Malhotra,zoya.malhotra373@outlook.com,Nagpur,Maharashtra,West,2024-09-01,Consumer
+669378,Shreya Verma,shreya.verma395@yahoo.com,Indore,Madhya Pradesh,Central,2025-04-13,Consumer
+968014,Rohan Das,rohan.das689@gmail.com,Pune,Maharashtra,West,2025-06-24,Consumer
+264431,Kavya Banerjee,kavya.banerjee174@yahoo.com,Jaipur,,North,2025-06-13,Consumer
+894372,Kiara Gupta,kiara.gupta532@yahoo.com,Bhopal,Madhya Pradesh,Central,2025-10-08,Consumer
+148102,Yash Patel,yash.patel983@outlook.com,Nagpur,Maharashtra,West,2025-05-26,Consumer
+178580,Tanvi Kapoor,tanvi.kapoor634@gmail.com,Hyderabad,Telangana,South,2026-04-19,Corporate
+648631,Simran Patel,simran.patel951@yahoo.com,Lucknow,Uttar Pradesh,West ,2024-09-11,Consumer
+682782,Rhea Kulkarni,rhea.kulkarni718@outlook.com,Surat,Gujarat,West,2026-01-28,Consumer
+287693,Ved Sharma,ved.sharma901@outlook.com,Chennai,Tamil Nadu,South,2024-07-19,Consumer
+410216,Bhavya Khan,bhavya.khan108@yahoo.com,Hyderabad,Telangana,South,2024-02-23,Consumer
+576647,Ved Verma,ved.verma474@gmail.com,Noida,Uttar Pradesh,North,2024-09-30,Consumer
+946106,Aarav Pillai,aarav.pillai811@yahoo.com,Delhi,Delhi,North,2025-04-22,Consumer
+277121,Sahil Das,sahil.das437@gmail.com,Kochi,Kerala,South,2025-08-07,Consumer
+863492,Aarav Shah,aarav.shah737@outlook.com,Indore,Madhya Pradesh,Central,2025-11-18,Consumer
+989794,Aman Shah,aman.shah785@outlook.com,Ahmedabad,Gujarat,West,2025-06-29,Consumer
+652250,Sakshi Verma,sakshi.verma338@yahoo.com,Noida,Uttar Pradesh,North,2024-02-05,Small Business
+511918,Kiara Rao,kiara.rao106@yahoo.com,Jaipur,Rajasthan,North,2024-09-05,Consumer
+596578,Kavya Mehta,kavya.mehta130@yahoo.com,Indore,Madhya Pradesh,Central,2024-05-05,Consumer
+648309,Meera Mehta,meera.mehta589@outlook.com,Pune,Maharashtra,West,2026-04-20,Consumer
+545153,Shreya Verma,shreya.verma652@gmail.com,Patna,Bihar,East,2024-08-05,Consumer
+242287,Aman Desai, aman.desai830@outlook.com ,Kolkata,West Bengal,East,2024-09-02,Consumer
+391881,Aditi Desai,aditi.desai411@yahoo.com,Kochi,Kerala,South,2024-01-02,Consumer
+836203,Sameer Iyer,sameer.iyer890@yahoo.com,Gurugram,Haryana,North,2024-02-20,Small Business
+951678,Mihir Nair,mihir.nair939@outlook.com,Chennai,Tamil Nadu,South,2024-09-15,Consumer
+919927,Akash Iyer,akash.iyer656@outlook.com,Jaipur,Rajasthan,North,2024-06-21,Consumer
+195215,Kiara Sharma,kiara.sharma727@outlook.com,Surat,Gujarat,West,2026-01-16,Consumer
+913980,Sameer Kulkarni,sameer.kulkarni861@outlook.com,Chennai,Tamil Nadu,South,2025-07-23,Consumer
+638474,Meera Banerjee,meera.banerjee488@yahoo.com,Mumbai,Maharashtra,West,2025-06-18,Consumer
+887590,Tanvi Singh,tanvi.singh870@yahoo.com,Jaipur,Rajasthan,North,2025-10-18,Consumer
+821239,Avni Shah,avni.shah745@outlook.com,Kochi,Kerala,South,2024-11-26,Consumer
+552094,Meera Desai,meera.desai890@outlook.com,Lucknow,Uttar Pradesh,North,2025-12-23,Small Business
+565883,Kabir Joshi,kabir.joshi144@yahoo.com,Chennai,Tamil Nadu,South,2025-03-26,Consumer
+335484,Diya Mehta,DIYA.MEHTA53OUTLOOK.COM,Kolkata,West Bengal,East,2024-02-12,Consumer
+715785,Ishaan Shah,ishaan.shah862@outlook.com,Kochi,Kerala,South,2025-03-09,Consumer
+804884,Arjun Mehta,arjun.mehta71@gmail.com,Chennai,Tamil Nadu,South,2024-11-22,Consumer
+628210,Riya Pillai,riya.pillai354@outlook.com,Indore,Madhya Pradesh,Central,2024-03-19,Consumer
+500421,Avni Singh,,Lucknow,Uttar Pradesh,North,2025-05-31,Corporate
+185948,Kiara Iyer,kiara.iyer952@yahoo.com,Pune,Maharashtra,West,2025-07-25,Consumer
+128960,Simran Malhotra,simran.malhotra307@outlook.com,Hyderabad,Telangana,South,2024-08-22,Small Business
+635958,Ishaan Gupta,ishaan.gupta659@gmail.com,Lucknow,Uttar Pradesh,North,2024-02-04,Small Business
+644114,Ayush Menon, ayush.menon417@outlook.com ,Indore,Madhya Pradesh,Central,2026-02-11,Small Business
+323509,Mihir Singh,mihir.singh975@yahoo.com,Patna,Bihar,East,2024-01-26,Consumer
+766286,Sameer Patel,sameer.patel77@outlook.com,Indore,Madhya Pradesh,Central,2024-03-06,Consumer
+783010,Dhruv Joshi,dhruv.joshi770@yahoo.com,Kochi,Kerala,South,2025-09-15,Consumer
+149836,Aman Kulkarni,aman.kulkarni438@yahoo.com,Kochi,Kerala,South,2025-08-20,Consumer
+163437,Vivek Sharma,vivek.sharma108@gmail.com,Bangalore,Karnataka,South,2024-03-22,Consumer
+521337,Yash Das,yash.das974@gmail.com,Bhubaneswar,Odisha,East,2026-04-03,Small Business
+499200,Ishaan Rao,ishaan.rao874@gmail.com,Jaipur,Rajasthan,North,2025-11-11,Corporate
+655109,Tanvi Khan,tanvi.khan934@gmail.com,Noida,Uttar Pradesh,North,2024-02-01,Small Business
+506712,Simran Shah,simran.shah764@outlook.com,Noida,Uttar Pradesh,North,2024-04-13,Consumer
+526647,Aditya Shah,aditya.shah322@yahoo.com,Pune,Maharashtra,West,2025-03-08,Small Business
+249215,Ayush Menon, ayush.menon320@yahoo.com ,Hyderabad,Telangana,South,2024-02-08,Small Business
+843195,Ved Malhotra,ved.malhotra451@outlook.com,Delhi,Delhi,North,2025-06-14,Small Business
+887668,Varun Khan,varun.khan19@gmail.com,Delhi,delhi,North,2024-05-08,Small Business
+987249,Bhavya Singh,bhavya.singh61@yahoo.com,Bhopal,Madhya Pradesh,Central,2024-11-26,Consumer
+982841,Avni Singh,avni.singh759@yahoo.com,Indore,Madhya Pradesh,Central,2024-02-11,Consumer
+302380,Nisha Iyer,nisha.iyer550@outlook.com,Surat,Gujarat,West,2024-12-09,Consumer
+549574,Ishaan Reddy,ishaan.reddy911@gmail.com,Nagpur,Maharashtra,West,2024-11-04,Consumer
+554250,Priya Verma,priya.verma147@yahoo.com,Kochi,Kerala,South,2024-06-12,Consumer
+507954,Pranav Iyer,pranav.iyer882@outlook.com,Nagpur,Maharashtra,West,2024-08-31,Consumer
+445845,Sameer Bose,sameer.bose940@yahoo.com,Bhubaneswar,Odisha,,2024-03-27,Consumer
+133215,Akash Joshi,akash.joshi442@gmail.com,Bengaluru,Karnataka,South,2025-10-12,Consumer
+928670,Arjun Joshi,arjun.joshi485@gmail.com,Pune,Maharashtra,West,2026-02-19,Consumer
+707415,Nisha Pillai,nisha.pillai159@outlook.com,Jaipur,Rajasthan,North,2025-05-18,Consumer
+922818,Bhavya Menon,bhavya.menon103@gmail.com,Bhopal,Madhya Pradesh,Central,2025-02-09,Consumer
+942802,Kavya Gupta,kavya.gupta101@yahoo.com,Patna,Bihar,East,2025-06-19,Consumer
+678199,Pallavi Agarwal,pallavi.agarwal688@yahoo.com,Pune,Maharashtra,West,2024-05-08,Consumer
+418418,Ananya Sharma,ananya.sharma579@outlook.com,Delhi,Delhi,North,2026-04-22,Consumer
+378445,Ved Sharma,ved.sharma975@yahoo.com,Chennai,Tamil Nadu,South,2024-09-16,Consumer
+611008,Rohan Rao,rohan.rao373@gmail.com,Mumbai,,west,2025-02-22,Consumer
+961619,Sakshi Iyer,sakshi.iyer273@outlook.com,Jaipur,Rajasthan,North,2026-03-28,Consumer
+840889,Varun Bhat,varun.bhat105@yahoo.com,Delhi,Delhi,North,2024-05-31,Consumer
+582439,Meera Kulkarni,meera.kulkarni816@outlook.com,Mumbai,Maharashtra,West,2026-01-22,Consumer
+291897,Aditi Sharma,aditi.sharma940@yahoo.com,New Delhi,Delhi,North,2026-03-12,Small Business
+221705,Rahul Khan,rahul.khan59@outlook.com,Mumbai,Maharashtra,West,2024-02-23,Consumer
+451873,Pallavi Mehta,pallavi.mehta719@gmail.com,Jaipur,Rajasthan,North,2024-12-19,Consumer
+363683,Aman Sharma,aman.sharma791@outlook.com,Ahmedabad,,West,2025-02-16,Consumer
+555985,Sahil Malhotra,sahil.malhotra449@gmail.com,Bhubaneswar,Odisha,East,2025-11-08,Consumer
+700428,Neha Iyer,neha.iyer175@outlook.com,Hyderabad,Telangana,South,2024-12-17,Consumer
+934103,Arjun Mehta,arjun.mehta194@yahoo.com,Nagpur,Maharashtra,West,2024-06-13,Consumer
+502910,Aman Nair,AMAN.NAIR214@OUTLOOK.COM,Jaipur,Rajasthan,North,2025-03-25,Small Business
+677266,Avni Bhat,avni.bhat795@yahoo.com,Bhopal,Madhya Pradesh,Central,2024-12-16,Small Business
+761892,Ved Joshi,ved.joshi492@gmail.com,Kochi,Kerala,South,2026-03-27,Consumer
+790987,Rohan Shah,rohan.shah910@gmail.com,Surat,Gujarat,West,2025-11-17,Consumer
+118976,Kavya Das,kavya.das773@gmail.com,Patna,Bihar,East,2026-02-26,Corporate
+408622,Mihir Agarwal,mihir.agarwal375@yahoo.com,Bhopal,Madhya Pradesh,Central,2024-01-09,Small Business
+666277,Kavya Menon,kavya.menon745@yahoo.com,Nagpur,Maharashtra,West,2025-09-05,Consumer
+505136,Kiara Das,kiara.das740@yahoo.com,Mumbai,Maharashtra,West,2024-06-20,Corporate
+109789,Kabir Das,kabir.das351@yahoo.com,Indore,Madhya Pradesh,Central,2025-07-20,Small Business
+338800,Rhea Iyer,rhea.iyer471@gmail.com,New Delhi,Delhi,North,2025-08-08,Consumer
+807924,Rohan Joshi,rohan.joshi296@outlook.com,Bhubaneswar,Odisha,East,2024-06-12,Consumer
+418165,Diya Nair,diya.nair618@yahoo.com,Hyderabad,Telangana,South,2024-08-24,Consumer
+236198,Rhea Mehta,rhea.mehta966@gmail.com,Pune,Maharashtra,West,2025-01-17,Consumer
+719643,Arnav Das,arnav.das354@gmail.com,Nagpur,Maharashtra,West,2026-04-04,Consumer
+676737,Avni Iyer,avni.iyer869@gmail.com,Indore,Madhya Pradesh,Central,2025-06-08,Consumer
+500503,Ayush Menon,ayush.menon320@yahoo.com,Bengaluru,Karnataka,South,2025-03-24,Consumer
+586025,Rhea Patel,rhea.patel593@gmail.com,Gurugram,Haryana,North,2025-02-03,Consumer
+357370,Simran Bhat,simran.bhat888@outlook.com,Chennai,Tamil Nadu,South,2025-02-01,Consumer
+579108,Ayush Desai,ayush.desai408@gmail.com,Bhubaneswar,Odisha,East,2025-06-09,Consumer
+502525,Ayush Singh,ayush.singh491@outlook.com,Indore,Madhya Pradesh,Central,2024-11-04,Consumer
+600728,Manav Das,manav.das988@yahoo.com,Noida,Uttar Pradesh,North,2024-01-07,Consumer
+213140,Arjun Agarwal,arjun.agarwal792@yahoo.com,Lucknow,Uttar Pradesh,North,2025-04-11,Consumer
+370445,Mihir Reddy,mihir.reddy378@yahoo.com,Kochi,Kerala,South,2025-10-14,Consumer
+292119,Rohan Nair,rohan.nair767@gmail.com,Nagpur,Maharashtra,West,2025-08-22,Consumer
+913365,Aman Banerjee,aman.banerjee729@gmail.com,Bhubaneswar,Odisha,East,2025-03-28,Small Business
+519562,Vivek Das,vivek.das479@gmail.com,Kolkata,West Bengal,East,2025-03-21,Small Business
+889427,Vikas Pillai,vikas.pillai232@gmail.com,Jaipur,Rajasthan,North,2024-09-27,Small Business
+257216,Rhea Rao,rhea.rao977@yahoo.com,Pune,Maharashtra,West,2026-02-25,Consumer
+236024,Ananya Nair,ananya.nair772@gmail.com,Jaipur,Rajasthan,North,2024-04-09,Consumer
+806780,Meera Singh,meera.singh805@yahoo.com,Kochi,Kerala,South,2024-03-23,Consumer
+863802,Dhruv Sharma,dhruv.sharma254@gmail.com,Ahmedabad,Gujarat,West,2024-08-01,Small Business
+390571,Varun Bhat,varun.bhat248@outlook.com,Pune ,Maharashtra,West,2026-04-16,Consumer
+221868,Rhea Singh,rhea.singh243@outlook.com,Delhi,Delhi,North,2024-09-21,Small Business
+453136,Aarav Singh,aarav.singh240@gmail.com,Patna,Bihar,East,2025-10-23,Consumer
+573059,Yash Iyer,yash.iyer150@outlook.com,Ahmedabad,Gujarat,West,2025-01-06,Consumer
+935083,Akash Patel,akash.patel580@outlook.com,Noida,Uttar Pradesh,North,2024-07-02,Consumer
+410822,Sahil Sharma,sahil.sharma196@gmail.com,Chennai,Tamil Nadu,South,2025-04-19,Consumer
+264049,Zoya Joshi,zoya.joshi746@outlook.com,Delhi,Delhi,North,2025-07-10,Consumer
+479414,Zoya Menon,zoya.menon24@gmail.com,Noida,Uttar Pradesh,North,2025-10-16,Consumer
+831061,Bhavya Kulkarni,bhavya.kulkarni497@gmail.com,Bengaluru,Karnataka,South,2024-10-14,Consumer
+379886,Vivek Banerjee,vivek.banerjee272@outlook.com,Surat,Gujarat,West,2025-03-24,Consumer
+155205,Yash Patel,yash.patel677@outlook.com,Jaipur,Rajasthan,North,2026-04-16,Consumer
+367830,Shreya Shah,shreya.shah535@gmail.com,Delhi,Delhi,North,2025-09-19,Consumer
+164634,Avni Pillai,avni.pillai518@gmail.com,Nagpur,Maharashtra,West,2025-02-24,Consumer
+151685,Kiara Singh,kiara.singh453@gmail.com,Bhubaneswar,Odisha,East,2024-02-16,Small Business
+767922,Arnav Kulkarni,arnav.kulkarni502@outlook.com,Ahmedabad,Gujarat,West,2025-11-10,Consumer
+522520,Nikhil Bhat,nikhil.bhat627@gmail.com,Hyderabad,Telangana,South,2025-04-25,Consumer
+126317,Kabir Patel,,Kochi,Kerala,South,2026-04-15,Corporate
+601488,Aarav Bhat,aarav.bhat923@yahoo.com,Bengaluru,Karnataka,South,2026-04-17,Consumer
+194792,Zoya Malhotra,zoya.malhotra551outlook.com,Bengaluru,Karnataka,South,2024-09-01,Consumer
+586261,Ishaan Bose,ishaan.bose41@gmail.com,Surat,Gujarat,West,2024-10-20,Consumer
+724384,Rohan Bose,rohan.bose493@outlook.com,Bhubaneswar,Odisha,East,2025-11-20,Consumer
+643571,Avni Khan,avni.khan229@outlook.com,Gurugram,Haryana,North,2024-03-28,Consumer
+165278,Akash Pillai,akash.pillai523@yahoo.com,Surat,Gujarat,West,2025-02-11,Consumer
+410043,Kavya Rao,kavya.rao767@yahoo.com,Jaipur,Rajasthan,North,2025-05-08,Consumer
+537950,Karan Verma,karan.verma908@outlook.com,Bhubaneswar,Odisha,East,2025-11-05,Consumer
+158076,Diya Shah,diya.shah86@gmail.com,Hyderabad,Telangana,South,2024-10-04,Consumer
+748998,Diya Singh,diya.singh631@gmail.com,Nagpur,Maharashtra,West,2024-07-02,Consumer
+646411,Kabir Sharma,kabir.sharma896@outlook.com,Delhi,Delhi,North,2024-09-28,Consumer
+711741,Tanvi Malhotra,tanvi.malhotra382@gmail.com,Patna,Bihar,East,2024-06-15,Consumer
+239500,Diya Nair,diya.nair861@yahoo.com,Kolkata,West Bengal,East,2024-08-09,Consumer
+134784,Ayush Gupta,ayush.gupta64@outlook.com,Lucknow,Uttar Pradesh,North,2024-12-29,Consumer
+971601,Manav Verma,manav.verma469@yahoo.com,Surat,Gujarat,West,2026-02-16,Consumer
+823362,Nikhil Kulkarni,NIKHIL.KULKARNI951@OUTLOOK.COM,Kochi,Kerala,South,2025-05-29,Consumer
+647761,Vivek Mehta,vivek.mehta707@yahoo.com,Gurugram,Haryana,North,2025-04-08,Consumer
+787474,Rahul Banerjee,rahul.banerjee230@outlook.com,Hyderabad,Telangana,South,2025-08-17,Consumer
+897209,Sahil Nair,sahil.nair264@gmail.com,Pune,Maharashtra,West,2025-06-14,Consumer
+780919,Rhea Das,rhea.das114@gmail.com,Pune,Maharashtra,West,2024-07-23,Small Business
+882750,Nisha Bhat,nisha.bhat824@yahoo.com,Kolkata,West Bengal,East,2025-02-27,Consumer
+529195,Nisha Verma,nisha.verma254@yahoo.com,Chennai,Tamil nadu,South,2024-06-07,Small Business
+634280,Pallavi Desai,pallavi.desai641@gmail.com,Hyderabad,Telangana,South,2024-11-28,Consumer
+901934,Neha Rao,neha.rao540@yahoo.com,Bhubaneswar,Odisha,East,2025-08-09,Consumer
+279421,Vivek Reddy,vivek.reddy40@outlook.com,Gurugram,Haryana,North,2024-02-04,Consumer
+452355,Ayush Khan, ayush.khan166@gmail.com ,Chennai,Tamil Nadu,South,2024-05-17,Consumer
+498025,Priya Patel,priya.patel570@gmail.com,Kochi,Kerala,South,2024-08-14,Consumer
+478473,Ananya Singh,ananya.singh381@outlook.com,Kochi,Kerala,South,2024-10-08,Consumer
+502957,Kavya Singh,kavya.singh992@gmail.com,Gurugram,Haryana,North,2024-06-27,Consumer
+510981,Ananya Singh,ananya.singh900@gmail.com,Bengaluru,karnataka,South,2024-03-31,Consumer
+311118,Aditi Rao,aditi.rao84@outlook.com,Mumbai,Maharashtra,West,2026-04-26,Consumer
+590270,Rahul Shah,rahul.shah139@outlook.com,Pune,Maharashtra,West,2025-02-10,Consumer
+323063,Tanvi Malhotra,tanvi.malhotra378@outlook.com,Indore,Madhya Pradesh,Central,2024-02-21,Consumer
+667475,Arnav Agarwal,arnav.agarwal68@gmail.com,Bhubaneswar,Odisha,East,2024-04-26,Corporate
+454493,Rohan Verma,rohan.verma230@outlook.com,Noida,Uttar Pradesh,North,2025-09-21,Consumer
+417672,Avni Agarwal,avni.agarwal54@gmail.com,Noida,Uttar Pradesh,North,2024-02-16,Consumer
+761301,Yash Rao,yash.rao584@outlook.com,Nagpur,Maharashtra,West,2025-08-19,Consumer
+926020,Shreya Malhotra,shreya.malhotra417@yahoo.com,Mumbai,Maharashtra,West,2024-05-22,Small Business
+362780,Sakshi Kapoor,sakshi.kapoor710@outlook.com,Bhopal,Madhya Pradesh,Central,2024-02-19,Consumer
+532996,Shreya Verma,shreya.verma220@outlook.com,Hyderabad,Telangana,South,2024-04-03,Consumer
+705520,Avni Sharma,avni.sharma164@yahoo.com,Lucknow,Uttar Pradesh,North,2024-11-25,Consumer
+283517,Priya Reddy,priya.reddy993@outlook.com,Bengaluru,karnataka,South,2026-04-25,Small Business
+243466,Mihir Shah,mihir.shah256@yahoo.com,Nagpur,Maharashtra,West,2024-08-16,Corporate
+989740,Yash Desai,yash.desai404@yahoo.com,Patna,Bihar,West ,2024-12-03,Small Business
+454529,Yash Desai,yash.desai22@outlook.com,mumbai,Maharashtra,West,2024-01-30,Small Business
+524628,Pallavi Iyer,pallavi.iyer425@yahoo.com,Bhubaneswar,Odisha,East,2024-05-22,Consumer
+608777,Nikhil Khan,nikhil.khan440@outlook.com,Mumbai,Maharashtra,West,2026-02-27,Consumer
+794251,Arnav Menon,arnav.menon622@gmail.com,Jaipur,Rajasthan,North,2024-10-18,Consumer
+748941,Neha Nair,neha.nair282@gmail.com,Kochi,Kerala,South,2025-12-02,Consumer
+385111,Isha Sharma,isha.sharma226@gmail.com,Jaipur,Rajasthan,North,2026-02-22,Consumer
+460189,Vivek Nair,vivek.nair367@outlook.com,Lucknow,Uttar Pradesh,North,2025-12-28,Consumer
+642011,Sameer Singh,sameer.singh355@yahoo.com,Patna,Bihar,East,2025-05-27,Consumer
+946703,Rhea Singh,rhea.singh921@yahoo.com,Delhi,Delhi,North,2026-04-04,Consumer
+291348,Pranav Singh,pranav.singh108@gmail.com,Delhi,Delhi,North,2026-04-10,Small Business
+262906,Zoya Banerjee,zoya.banerjee816@outlook.com,Indore,Madhya Pradesh,Central,2024-01-21,Small Business
+190704,Nikhil Sharma,nikhil.sharma532@outlook.com,Kolkata,West Bengal,East,2024-04-08,Consumer
+918029,Meera Shah,meera.shah941@outlook.com,Chennai,Tamil nadu,South,2024-10-31,Consumer
+468957,Aditi Patel,aditi.patel119@yahoo.com,Pune,Maharashtra,West,2025-03-25,Small Business
+885424,Varun Iyer,varun.iyer509@gmail.com,Bhopal,Madhya Pradesh,Central,2026-02-16,Consumer
+834138,Kavya Das,kavya.das201@yahoo.com,Bhubaneswar,Odisha,East,2025-03-28,Consumer
+455422,Riya Joshi,riya.joshi123@outlook.com,Chennai,Tamil Nadu,South,2024-09-09,Corporate
+502144,Dhruv Malhotra,dhruv.malhotra565@yahoo.com,Lucknow,Uttar Pradesh,North,2024-08-29,Small Business
+886175,Pallavi Pillai,pallavi.pillai267@gmail.com,Bhopal,Madhya Pradesh,Central,2025-02-05,Consumer
+141767,Akash Agarwal,akash.agarwal796@outlook.com,Gurugram,Haryana,North,2024-06-12,Consumer
+748250,Nisha Bose,nisha.bose176@yahoo.com,Bhopal,Madhya Pradesh,Central,2024-04-20,Consumer
+615017,Yash Banerjee,yash.banerjee450@outlook.com,Ahmedabad,Gujarat,West,2025-04-02,Consumer
+152294,Tanvi Rao,tanvi.rao324@yahoo.com,Pune,Maharashtra,West,2025-08-15,Consumer
+548860,Isha Gupta,isha.gupta333@yahoo.com,Indore,Madhya Pradesh,Central,2025-02-05,Consumer
+968292,Ayush Mehta,ayush.mehta346@yahoo.com,Nagpur,Maharashtra,West,2025-07-11,Consumer
+929482,Neha Malhotra,NEHA.MALHOTRA772@YAHOO.COM,Bhopal,Madhya Pradesh,Central,2024-09-08,Consumer
+246788,Ayush Nair,ayush.nair363@gmail.com,Pune,Maharashtra,West,2025-03-30,Small Business
+546476,Avni Sharma,avni.sharma786@gmail.com,Kolkata,West Bengal,East,2024-05-16,Consumer
+821692,Arnav Desai,arnav.desai467@outlook.com,Gurugram,Haryana,North,2025-12-17,Small Business
+820397,Mihir Desai,mihir.desai404@yahoo.com,Mumbai,Maharashtra,West,2024-05-08,Consumer
+847019,Pranav Kapoor,pranav.kapoor908@outlook.com,Surat,Gujarat,West,2025-08-10,Consumer
+851135,Shreya Verma,shreya.verma605@gmail.com,Kochi,Kerala,South,2025-04-14,Consumer
+177793,Priya Gupta,priya.gupta590@yahoo.com,Pune,Maharashtra,West,2025-10-21,Consumer
+489570,Simran Kapoor,simran.kapoor889@outlook.com,Gurugram,Haryana,North,2026-03-03,Consumer
+263148,Aditi Nair,aditi.nair429@gmail.com,Jaipur,Rajasthan,North,2026-03-04,Consumer
+111000,Rahul Agarwal,rahul.agarwal308@yahoo.com,Gurugram,Haryana,North,2024-10-29,Small Business
+463496,Avni Bhat,avni.bhat534@yahoo.com,Bengaluru,Karnataka,South,2026-03-02,Consumer
+179970,Aarav Singh,aarav.singh467@yahoo.com,Bhopal,Madhya Pradesh,Central,2025-04-08,Consumer
+889450,Yash Pillai,yash.pillai251@outlook.com,Bengaluru,Karnataka,South,2025-02-26,Small Business
+901017,Ishaan Gupta,ishaan.gupta987@outlook.com,Lucknow,Uttar Pradesh,North,2026-03-24,Consumer
+417546,Rahul Iyer,rahul.iyer636@outlook.com,Gurugram,Haryana,North,2025-09-12,Consumer
+662543,Vikas Desai,vikas.desai371@gmail.com,Nagpur,Maharashtra,West,2024-08-13,Corporate
+908789,Ishaan Gupta,ishaan.gupta543@yahoo.com,Nagpur,Maharashtra,West,2024-02-21,Consumer
+654697,Vikas Kulkarni,vikas.kulkarni460@yahoo.com,Bhopal,Madhya Pradesh,Central,2024-04-12,Consumer
+310574,sahil malhotra,sahil.malhotra134@yahoo.com,Bhopal,Madhya Pradesh,Central,2025-06-04,Consumer
+360759, Varun Singh ,VARUN.SINGH439@OUTLOOK.COM,Mumbai,Maharashtra,West,2025-03-23,Consumer
+604773,Yash Malhotra,yash.malhotra920@yahoo.com,Bhopal,Madhya Pradesh,Central,2026-01-04,Consumer
+255887,Isha Menon,isha.menon906@yahoo.com,Delhi,Delhi,North,2025-09-20,Consumer
+195215,Kiara Sharma,kiara.sharma727@outlook.com,Surat,Gujarat,West,2026-01-16,Consumer
+158076,Diya Shah,diya.shah86@gmail.com,Hyderabad,Telangana,South,2024-10-04,Consumer
