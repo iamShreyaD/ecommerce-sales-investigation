@@ -1,0 +1,31 @@
+product_id,product_name,category,subcategory,brand,unit_cost,list_price,supplier_id,product_status
+20351, Wireless Mouse ,Computer Accessories,Computer Accessories,Logitech,357.63,693.18,6647,Active
+67846,mechanical keyboard,Computer Accessories,Computer Accessories,HP,1347.78,3994.09,7650,Active
+80616,Bluetooth Headphones,Electronic,Audio,boAt,842.11,1326.48,8874,Active
+53143,Bluetooth Speaker,ELECTRONICS,Audio,jbl,3156.3244999999997,2744.63,9673,Active
+23723, USB-C Cable ,Mobile Accessories,Mobile Accessories,Portronics,115.06,494.26,6647,Active
+83876,"20,000mAh Power Bank",fashion,Mobile Accessories,MI,546.99,1398.68,9673,Active
+79501,Smartwatch,Wearables,Wearables,Noise,998.34,3635.51,5413,Active
+83401,USB Hub,fashion,Computer Accessories,Portronics, 239.27 ,575.18,7650,Active
+40374,Laptop Stand,Computer Accessories,Computer Accessories,Tukzer,383.78,700.76,,Active
+94616,desk lamp,Home Office,Home Office,Philips,,"1,312.50",9673,Active
+47907,Coffee Maker,Kitchen Appliances,Kitchen Appliances,Philips,1442.99,"4,036.19",9673,Active
+88270,Electric Kettle,Kitchen Appliances,Kitchen Appliances,Prestige,525.56,1877.93,9673,Active
+27124,Storage Container Set,Kitchen Storage,Kitchen Storage,Milton,,723.73,8874,Active
+25780,Water Bottle,Kitchen Storage,Kitchen Storage,Milton,164.86,526.97,8874,Active
+21754,Non-Stick Pan,Cookware,Cookware,prestige,,1324.39,9191,Active
+99553,T-Shirt,Electronic,Men's Fashion,,267.62,541.02,5956,Active
+59930,Running Shoes,Footwear,Footwear,,737.24,"2,573.20",6647,Active
+39430,Backpack,Bags,Bags,American Tourister, 660.50 ,49.0,7701,Active
+96857,Sports Shorts,Sportswear,Sportswear,Decathlon,355.48,1057.45,8999,Active
+43806,Yoga Mat,Fitness,Fitness,decathlon,293.28,741.02,9479,Active
+28009,Face Wash,Skincare,Skincare,Nivea,94.57,186.01,9479,Active
+96270,moisturizer,Skincare,Skincare,minimalist,167.54,356.33,8874,Active
+24857,sunscreen,Skincare,Skincare,,156.64,441.07,7650,Active
+25046,Shampoo,Haircare,,Dove,170.27,271.12,9479,Active
+50462,Lip Balm,Beauty,Beauty,Nivea,51.48,161.17,,Active
+75277,Notebook Set,Stationery,Stationery,Classmate,78.89,235.33,5956,Active
+28208, Ball Pen Pack ,Electronic,Stationery,cello,34.44,119.62,9191,Discontinued
+91584,Office Chair,Office Furniture,,Green Soul,3077.61,9107.24,8874,Discontinued
+31931,Monitor,fashion,Computer Hardware,Acer,4594.39,99999.0,9479,Discontinued
+51569,Air  Fryer,Kitchen Appliances,,philips,2302.63,5368.91,9673,Active
