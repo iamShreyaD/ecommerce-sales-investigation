@@ -1,0 +1,29 @@
+ecommerce-sales-investigation/
+│
+├── README.md
+│
+├── data/
+│   ├── raw/
+│   │   ├── orders_raw.csv
+│   │   ├── customers_raw.csv
+│   │   ├── products_raw.csv
+│   │   └── payments_raw.csv
+│   │
+│   └── cleaned/
+│       └── README.md
+│
+├── sql/
+│   ├── 01_create_database.sql
+│   ├── 02_create_tables.sql
+│   ├── 03_data_validation.sql
+│   ├── 04_data_cleaning.sql
+│   ├── 05_data_quality_checks.sql
+│   ├── 06_business_analysis.sql
+│   ├── 07_window_functions.sql
+│   └── 08_final_insights.sql
+│
+├── analysis/
+│   └── business_questions.md
+│
+└── screenshots/
+    └── .gitkeep
