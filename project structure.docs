@@ -9,18 +9,24 @@ ecommerce-sales-investigation/
 │   │   ├── products_raw.csv
 │   │   └── payments_raw.csv
 │   │
-│   └── cleaned/
-│       └── README.md
+│   └── └── cleaned/
+    ├── customers_cleaned.csv
+    ├── products_cleaned.csv
+    ├── orders_cleaned.csv
+    └── payments_cleaned.csv
 │
 ├── sql/
-│   ├── 01_create_database.sql
-│   ├── 02_create_tables.sql
-│   ├── 03_data_validation.sql
-│   ├── 04_data_cleaning.sql
-│   ├── 05_data_quality_checks.sql
-│   ├── 06_business_analysis.sql
-│   ├── 07_window_functions.sql
-│   └── 08_final_insights.sql
+│   ├──sql/
+|   |── 01_create_tables.sql
+|   ├── 02_validate_customers.sql
+|   ├── 03_clean_customers.sql
+|   ├── 04_validate_products.sql
+|   ├── 05_clean_products.sql
+|   ├── 06_validate_orders.sql
+|   ├── 07_clean_orders.sql
+|   ├── 08_validate_payments.sql
+|   ├── 09_clean_payments.sql
+|   └── 10_business_analysis.sql
 │
 ├── analysis/
 │   └── business_questions.md
