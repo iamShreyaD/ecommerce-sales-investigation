@@ -8,8 +8,8 @@
 7. Which regions perform best and worst?
 8. Which sales channel generates the most revenue?
 
-
-Level 2 — Customer analysis
+---
+**Level 2 — Customer analysis**
 9. Which customers spend the most?
 10. What are the top 10 customers by revenue?
 11. How many orders does each customer place?
@@ -18,7 +18,7 @@ Level 2 — Customer analysis
 14. What percentage of revenue comes from the top 10 customers?
 ---
 
-*Level 3 — Product analysis*
+**Level 3 — Product analysis**
 15. Which products have declining sales?
 16. Which products have increasing sales?
 17. Which products have the highest profit margin?
