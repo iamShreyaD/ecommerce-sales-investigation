@@ -8,6 +8,7 @@
 7. Which regions perform best and worst?
 8. Which sales channel generates the most revenue?
 
+**Level 2 - Customer Analysis**
 9. Which customers spend the most?
 10. What are the top 10 customers by revenue?
 11. How many orders does each customer place?
@@ -15,12 +16,14 @@
 13. Which customer segment generates the most revenue?
 14. What percentage of revenue comes from the top 10 customers?
 
+**Level 3 - Product Analysis**
 15. Which products have declining sales?
 16. Which products have increasing sales?
 17. Which products have the highest profit margin?
 18. Which products have never been sold?
 19. Which categories have the highest average order value?
 
+**Level 4 - Time Analysis**
 20. What is monthly revenue?
 21. What is month-over-month revenue growth?
 22. Which month had the highest revenue?
