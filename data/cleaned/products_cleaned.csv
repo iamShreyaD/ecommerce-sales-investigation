@@ -1,0 +1,31 @@
+product_id,product_name,category,subcategory,brand,unit_cost,list_price,supplier_id,product_status,price_flag,category_flag,supplier_id_flag
+20351,"wireless mouse","computer accessories","computer accessories",logitech,357.63,693.18,6647,active,NULL,NULL,NULL
+21754,"non-stick pan",cookware,cookware,prestige,NULL,1324.39,9191,active,NULL,NULL,NULL
+23723,"usb-c cable","mobile accessories","mobile accessories",portronics,115.06,494.26,6647,active,NULL,NULL,NULL
+24857,sunscreen,skincare,skincare,generic,156.64,441.07,7650,active,NULL,NULL,NULL
+25046,shampoo,haircare,skincare,dove,170.27,271.12,9479,active,NULL,NULL,NULL
+25780,"water bottle","kitchen storage","kitchen storage",milton,164.86,526.97,8874,active,NULL,NULL,NULL
+27124,"storage container set","kitchen storage","kitchen storage",milton,NULL,723.73,8874,active,NULL,NULL,NULL
+28009,"face wash",skincare,skincare,nivea,94.57,186.01,9479,active,NULL,NULL,NULL
+28208,"ball pen pack",electronic,stationery,cello,34.44,119.62,9191,discontinued,NULL,"category mismatch",NULL
+31931,monitor,fashion,"computer hardware",acer,4594.39,99999.00,9479,discontinued,NULL,NULL,NULL
+39430,backpack,bags,bags,"american tourister",660.50,49.00,7701,active,"unit_cost > list_price",NULL,NULL
+40374,"laptop stand","computer accessories","computer accessories",tukzer,383.78,700.76,NULL,active,NULL,NULL,missing_supplier_id
+43806,"yoga mat",fitness,fitness,decathlon,293.28,741.02,9479,active,NULL,NULL,NULL
+47907,"coffee maker","kitchen appliances","kitchen appliances",philips,1442.99,4036.19,9673,active,NULL,NULL,NULL
+50462,"lip balm",beauty,beauty,nivea,51.48,161.17,NULL,active,NULL,NULL,missing_supplier_id
+51569,"air  fryer","kitchen appliances","kitchen appliances",philips,2302.63,5368.91,9673,active,NULL,NULL,NULL
+53143,"bluetooth speaker",electronics,audio,jbl,3156.32,2744.63,9673,active,"unit_cost > list_price",NULL,NULL
+59930,"running shoes",footwear,footwear,generic,737.24,2573.20,6647,active,NULL,NULL,NULL
+67846,"mechanical keyboard","computer accessories","computer accessories",hp,1347.78,3994.09,7650,active,NULL,NULL,NULL
+75277,"notebook set",stationery,stationery,classmate,78.89,235.33,5956,active,NULL,NULL,NULL
+79501,smartwatch,wearables,wearables,noise,998.34,3635.51,5413,active,NULL,NULL,NULL
+80616,"bluetooth headphones",electronic,audio,boat,842.11,1326.48,8874,active,NULL,NULL,NULL
+83401,"usb hub",fashion,"computer accessories",portronics,239.27,575.18,7650,active,NULL,"category mismatch",NULL
+83876,"20,000mah power bank",fashion,"mobile accessories",mi,546.99,1398.68,9673,active,NULL,"category mismatch",NULL
+88270,"electric kettle","kitchen appliances","kitchen appliances",prestige,525.56,1877.93,9673,active,NULL,NULL,NULL
+91584,"office chair","office furniture","home office","green soul",3077.61,9107.24,8874,discontinued,NULL,NULL,NULL
+94616,"desk lamp","home office","home office",philips,NULL,1312.50,9673,active,NULL,NULL,NULL
+96270,moisturizer,skincare,skincare,minimalist,167.54,356.33,8874,active,NULL,NULL,NULL
+96857,"sports shorts",sportswear,sportswear,decathlon,355.48,1057.45,8999,active,NULL,NULL,NULL
+99553,t-shirt,electronic,"men's fashion",generic,267.62,541.02,5956,active,NULL,NULL,NULL
